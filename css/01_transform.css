@@ -40,7 +40,7 @@ a:hover {
   padding: 20px;
   background: #efefef;
   transition: all 3s;
-  transition-duration: 1s;
+  transition-delay: 1s;
 }
  .content:hover{
   background: rgb(0,0,0);
