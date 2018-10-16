@@ -38,6 +38,9 @@ a:hover {
   padding: 20px;
   background: #efefef;
 }
+ .content:hover{
+  background: rgb(0,0,0);
+ }
 
 .shape {
   margin-left: 100px;
