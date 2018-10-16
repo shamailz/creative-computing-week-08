@@ -65,11 +65,11 @@ a {
    transform: scale(1.0) rotateZ(0deg);
   }
   90% { 
-  transform: scale(1.4) rotateZ(45deg); 
+  transform: scale(1.4) rotateZ(180deg); 
 }
   100% {
    background: transparent;
-   transform: scale(1.2) rotateZ(90deg);
+   transform: scale(1.2) rotateZ(360deg);
   }
 }
 
