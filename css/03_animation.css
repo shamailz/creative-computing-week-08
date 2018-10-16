@@ -65,8 +65,18 @@ a {
   animation-duration: normal; 
 }
 
-.variation-2 {
+.variation-2 {  
+  animation-name: spin ;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-duration: normal; 
+
 }
 
 .variation-3 {
+    animation-name: spin ;
+  animation-duration: 25s;
+  animation-iteration-count: infinite;
+  animation-duration: normal; 
+
 }
