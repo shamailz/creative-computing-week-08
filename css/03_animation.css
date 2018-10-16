@@ -64,11 +64,11 @@ a {
    transform: scale(1.0) rotateZ(0deg);
   }
   90% { 
-  transform: scale(1.7) rotateZ(45deg); 
+  transform: scale(1.4) rotateZ(45deg); 
 }
   100% {
    background: blue;
-   transform: scale(1.5) rotateZ(45deg);
+   transform: scale(1.2) rotateZ(45deg);
   }
 }
 
