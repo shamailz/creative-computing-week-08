@@ -39,7 +39,7 @@ a {
   margin: 85px;
   width: 200px;  
   height: 200px;
-  background: transparent;
+  background: navy blue;
 
 }
 
@@ -57,18 +57,18 @@ a {
 
 @keyframes squiggle {
   0% {
-   background: red;
+   background: transparent;
    transform: scale(1.0) rotateZ(0deg);
   }
   25% {
-   background: red;
+   background: transparent;
    transform: scale(1.0) rotateZ(0deg);
   }
   90% { 
   transform: scale(1.4) rotateZ(45deg); 
 }
   100% {
-   background: blue;
+   background: transparent;
    transform: scale(1.2) rotateZ(45deg);
   }
 }
@@ -80,7 +80,7 @@ a {
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-direction: normal; 
-   background: transparent; 
+  background: transparent; 
  border-top: 100px solid transparent;
  border-right: 100px solid transparent;
  border-bottom: 100px solid transparent;
