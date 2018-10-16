@@ -64,7 +64,7 @@ a {
    background: transparent;
    transform: scale(1.0) rotateZ(0deg);
   }
-  90% { 
+  75% { 
   transform: scale(1.4) rotateZ(180deg); 
 }
   100% {
