@@ -44,7 +44,7 @@ a:hover {
   width: 200px;  
   height: 200px;
   background: red;
-  transition: transform 3s;
+  transition: transform 3s, background-color 1s;
 }
 
 .shape:hover{
