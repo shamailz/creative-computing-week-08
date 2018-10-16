@@ -53,8 +53,8 @@ a:hover {
   transition-delay: 1s;
 }
 
-.shape:hover{
-  transform: rotateZ(3645deg) scale(1.5);
+.content:hover .shape{
+  transform: rotateZ(45deg) scale(1.5);
   background: blue;
 }
 
