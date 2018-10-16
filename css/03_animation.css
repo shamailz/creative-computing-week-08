@@ -40,6 +40,7 @@ a {
   width: 200px;  
   height: 200px;
   background: royalblue;
+
 }
 
 @keyframes spin {
@@ -79,6 +80,15 @@ a {
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-direction: normal; 
+   background: transparent; 
+ border-top: 100px solid transparent;
+ border-right: 100px solid transparent;
+ border-bottom: 100px solid transparent;
+ border-left: 100px solid violet;
+}
+
+
+
 }
 
 .variation-2 {  
