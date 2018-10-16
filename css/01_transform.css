@@ -46,7 +46,7 @@ a:hover {
   background: red;
   transition: transform 3s, background-color 1s;
   transition-delay: 0.5s;
-  transition-timing-function: ease-in-out; ;
+  transition-timing-function: ease-in-out;
 }
 
 .shape:hover{
