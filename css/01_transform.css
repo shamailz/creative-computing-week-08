@@ -44,5 +44,5 @@ a:hover {
   width: 200px;  
   height: 200px;
   background: red;
-  transform: skewX(30deg);
+  transform: rotateZ(45deg);
 }
