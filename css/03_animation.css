@@ -67,7 +67,7 @@ a {
   50% { 
   transform: scale(1.4) rotateZ(180deg); 
 }
-  50% { 
+  75% { 
   transform: scale(1.4) rotateZ(270deg);
   }
   100% {
