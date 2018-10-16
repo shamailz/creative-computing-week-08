@@ -49,6 +49,7 @@ a:hover {
 
 .shape:hover{
   transform: rotateZ(45deg);
+  background: violet;
 }
 
 
