@@ -45,6 +45,7 @@ a:hover {
   height: 200px;
   background: red;
   transition: transform 3s, background-color 1s;
+  transition-delay: 1s;
 }
 
 .shape:hover{
