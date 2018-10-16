@@ -26,7 +26,7 @@ a {
   color: blue;
   text-decoration: none;  
   transition: all 3s;
-  transition-duration: 1s;
+  transition-delay: 1s;
 }
 
 a:hover {
