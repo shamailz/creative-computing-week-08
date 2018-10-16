@@ -42,7 +42,27 @@ a {
   background: royalblue;
 }
 
+@keyframes spin {
+  0% {
+   transform: rotate(0deg);
+  }
+  25% {
+   transform: rotate(60deg);
+  }
+  100% {
+   transform: rotate(360deg);
+  }
+}
+
+
+
+
+
 .variation-1 {
+  animation-name: spin ;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-duration: normal; 
 }
 
 .variation-2 {
