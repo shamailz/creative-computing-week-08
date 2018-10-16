@@ -57,11 +57,11 @@ a {
 @keyframes squiggle {
   0% {
    background: red;
-   transform: scale(1.0) rotateZ(45deg);
+   transform: scale(1.0) rotateZ(0deg);
   }
   25% {
    background: red;
-   transform: scale(1.0) rotateZ(45deg);
+   transform: scale(1.0) rotateZ(0deg);
   }
   90% { 
   transform: scale(1.7) rotateZ(45deg); 
