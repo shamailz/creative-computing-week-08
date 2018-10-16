@@ -43,11 +43,12 @@ a {
 }
 
 .rectangle {
-
+  width: 300px;
+  height: 100px;
 }
 
 .circle {
-
+  border-radius: 100px
 }
 
 .triangle {
