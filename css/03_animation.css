@@ -69,7 +69,7 @@ a {
 }
   100% {
    background: transparent;
-   transform: scale(1.2) rotateZ(45deg);
+   transform: scale(1.2) rotateZ(90deg);
   }
 }
 
