@@ -44,6 +44,8 @@ a:hover {
   width: 200px;  
   height: 200px;
   background: red;
+  transition-delay: 1s;
+  transition: all 3s;
 }
 
 .shape:hover{
