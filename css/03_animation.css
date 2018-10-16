@@ -54,12 +54,25 @@ a {
   }
 }
 
-
+@keyframes squiggle {
+  0% {
+   background: red;
+   transform: scale(1.0);
+  }
+  25% {
+   background: red;
+   transform: scale(1.0);
+  }
+  100% {
+   background: blue;
+   transform: scale(1.5) rotateZ(45deg);
+  }
+}
 
 
 
 .variation-1 {
-  animation-name: spin ;
+  animation-name: squiggle ;
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-direction: normal; 
