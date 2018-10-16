@@ -52,10 +52,13 @@ a {
 }
 
 .triangle {
- border-top: 10px solid red;
- border-right: 10px solid green;
- border-bottom: 10px solid yellow;
- border-left: 10px solid violet;
+height: 0;
+width: 0;
+  background: transparent; 
+ border-top: 100px solid transparent;
+ border-right: 100px solid transparent;
+ border-bottom: 100px solid transparent;
+ border-left: 100px solid violet;
 }
 
 
