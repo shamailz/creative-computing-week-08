@@ -49,7 +49,7 @@ a:hover {
 }
 
 .shape:hover{
-  transform: rotateZ(45deg) scale(1.5);
+  transform: rotateZ(3645deg) scale(1.5);
   background: blue;
 }
 
